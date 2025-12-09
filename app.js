@@ -2,7 +2,6 @@
 // Assumes `auth` and `db` globals from firebase.js
 
 const $ = id => document.getElementById(id);
-
 // UI elements
 const authSection = $('auth-section');
 const trackerSection = $('tracker-section');
