@@ -1,6 +1,5 @@
 // Main app logic using Firebase compat SDK (loaded via CDN/compat in index.html)
 // Assumes `auth` and `db` globals from firebase.js
-
 const $ = id => document.getElementById(id);
 // UI elements
 const authSection = $('auth-section');
